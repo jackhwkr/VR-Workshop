@@ -7,6 +7,10 @@ TagManager:
   - Anchor
   - interactable
   - Interact
+  - Goal1
+  - Goal2
+  - Goal3
+  - Throw
   layers:
   - Default
   - TransparentFX
